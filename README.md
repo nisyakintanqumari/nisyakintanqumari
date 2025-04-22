@@ -13,10 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
----
-
----
-
 ### 📊 GitHub Stats
 
 ![Nisya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisyakintanqumari&show_icons=true&theme=tokyonight)
