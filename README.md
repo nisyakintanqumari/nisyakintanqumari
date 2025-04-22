@@ -15,11 +15,12 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
-![Nisya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisyakintanqumari&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisyakintanqumari&layout=compact&theme=radical)
+![Nisya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisyakintanqumari&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisyakintanqumari&layout=compact&theme=tokyonight)
 
 ---
 
@@ -29,6 +30,3 @@ You can click the Preview link to take a look at your changes.
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
----
-
